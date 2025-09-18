@@ -47,7 +47,7 @@ digitalLibrary/
 
 ⚙️ Setup & Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/digitalLibrary.git
+git clone https://github.com/Amanrawal1305/digitalLibrary.git
 cd digitalLibrary
 
 2️⃣ Configure Database (MySQL)
